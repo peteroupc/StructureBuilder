@@ -1,0 +1,10 @@
+bin/
+obj/
+CBORTest/bin/
+CBORTest/obj/
+ProfilingSessions/
+CBORTest/ProfilingSessions/
+.project
+.classpath
+*.class
+.pmd
